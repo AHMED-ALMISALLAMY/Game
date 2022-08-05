@@ -1,0 +1,16 @@
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/bin/Debug/net5.0/Game
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/bin/Debug/net5.0/Game.deps.json
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/bin/Debug/net5.0/Game.runtimeconfig.json
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/bin/Debug/net5.0/Game.runtimeconfig.dev.json
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/bin/Debug/net5.0/Game.dll
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/bin/Debug/net5.0/Game.pdb
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/obj/Debug/net5.0/Game.csproj.AssemblyReference.cache
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/obj/Debug/net5.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/obj/Debug/net5.0/Game.AssemblyInfoInputs.cache
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/obj/Debug/net5.0/Game.AssemblyInfo.cs
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/obj/Debug/net5.0/Game.csproj.CoreCompileInputs.cache
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/obj/Debug/net5.0/Game.dll
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/obj/Debug/net5.0/refint/Game.dll
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/obj/Debug/net5.0/Game.pdb
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/obj/Debug/net5.0/Game.genruntimeconfig.cache
+/Users/ahmedalmisallamy/Documents/C#-Learning-Course/Game/obj/Debug/net5.0/ref/Game.dll
